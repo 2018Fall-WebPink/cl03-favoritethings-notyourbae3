@@ -1,0 +1,22 @@
+/*
+* Emily
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: honeydew;
+
+}
+
+#Puppy { width: 200px; height: 100px; }
+#Hockey { width: 300px; height: 200px; }
+#Sushi { width: 400px; height: 300px; }
